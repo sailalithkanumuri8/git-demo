@@ -1,6 +1,5 @@
 """
 Simple Calculator Module
-Perfect for Git demonstrations!
 """
 
 def add(a, b):
