@@ -1,6 +1,5 @@
 """
 Student Grade Tracker
-Demonstrates Git workflows with data structures
 """
 
 class Student:
