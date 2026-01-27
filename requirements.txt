@@ -1,0 +1,8 @@
+# Python Dependencies
+# This project uses only standard library modules
+# No additional packages required for basic functionality
+
+# For future enhancements, you might add:
+# numpy>=1.24.0
+# pandas>=2.0.0
+
