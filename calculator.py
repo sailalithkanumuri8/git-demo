@@ -19,6 +19,14 @@ def divide(a, b):
 def power(a, b):
     return a ** b
 
+def square_root(a):
+    return a ** 0.5
+
+def factorial(n):
+    if n <= 0:
+        return 1:
+    return n * factorial(n - 1)
+
 if __name__ == "__main__":
     print("=== Simple Calculator ===")
     print(f"5 + 3 = {add(5, 3)}")
