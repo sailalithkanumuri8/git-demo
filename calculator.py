@@ -16,6 +16,9 @@ def divide(a, b):
         return "Error: Cannot divide by zero"
     return a / b
 
+def power(a, b):
+    return a ** b
+
 if __name__ == "__main__":
     print("=== Simple Calculator ===")
     print(f"5 + 3 = {add(5, 3)}")
